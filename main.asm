@@ -178,6 +178,23 @@ SnorlaxSprite:         INCBIN "gfx/sprites/snorlax.2bpp"
 OldAmberSprite:        INCBIN "gfx/sprites/old_amber.2bpp"
 LyingOldManSprite:     INCBIN "gfx/sprites/lying_old_man.2bpp"
 
+SECTION "Overworld Sprites", ROMX
+PoliwrathSprite::        INCBIN "gfx/sprites/poliwrath.2bpp"
+MeowthSprite::           INCBIN "gfx/sprites/meowth.2bpp"
+CuboneSprite::           INCBIN "gfx/sprites/poliwrath.2bpp"
+PsyduckSprite::          INCBIN "gfx/sprites/poliwrath.2bpp"
+NidoranmSprite::         INCBIN "gfx/sprites/poliwrath.2bpp"
+NidorinoSprite::         INCBIN "gfx/sprites/poliwrath.2bpp"
+NidoranfSprite::         INCBIN "gfx/sprites/lapras.2bpp"
+MachopSprite::           INCBIN "gfx/sprites/lapras.2bpp"
+MachokeSprite::          INCBIN "gfx/sprites/poliwrath.2bpp"
+PidgeySprite::           INCBIN "gfx/sprites/lapras.2bpp"
+PidgeotSprite::          INCBIN "gfx/sprites/poliwrath.2bpp"
+SpearowSprite::          INCBIN "gfx/sprites/lapras.2bpp"
+FearowSprite::           INCBIN "gfx/sprites/lapras.2bpp"
+Seel2Sprite::            INCBIN "gfx/sprites/poliwrath.2bpp"
+SlowpokeSprite::         INCBIN "gfx/sprites/lapras.2bpp"
+KangaskhanSprite::       INCBIN "gfx/sprites/lapras.2bpp"
 
 SECTION "Graphics", ROMX, BANK[GFX]
 IF DEF(_JPLOGO)

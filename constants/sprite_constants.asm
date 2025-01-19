@@ -232,6 +232,22 @@ const_value = 1
 	const SPRITE_LYING_OLD_MAN_UNUSED_1    ; $46
 	const SPRITE_LYING_OLD_MAN_UNUSED_2    ; $47
 	const SPRITE_LYING_OLD_MAN             ; $48
+	const SPRITE_POLIWRATH
+	const SPRITE_MEOWTH
+	const SPRITE_CUBONE
+	const SPRITE_PSYDUCK
+	const SPRITE_NIDORANM
+	const SPRITE_NIDORINO
+	const SPRITE_NIDORANF
+	const SPRITE_MACHOP
+	const SPRITE_MACHOKE
+	const SPRITE_PIDGEY
+	const SPRITE_PIDGEOT
+	const SPRITE_SPEAROW
+	const SPRITE_FEAROW
+	const SPRITE_SEEL2
+	const SPRITE_KANGASKHAN
+	const SPRITE_SLOWPOKE
 
 ; different kinds of people events
 ITEM    EQU $80
